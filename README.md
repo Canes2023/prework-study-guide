@@ -17,3 +17,5 @@ This study guide can be used to study notes on HTML, CSS, etc. Each section cont
 N/A
 
 ## License
+
+MIT License
